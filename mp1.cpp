@@ -16,11 +16,11 @@ int main ()
 {
 	float feet, inches, pounds;
 	cout << "Enter your height in feet and inches:\n";
-	cout << "\nEnter feet: ";
+	cout << "\nFirst, enter the feet: ";
 	cin >> feet;
-	cout << "\nEnter inches: ";
+	cout << "\nNext, enter the inches: ";
 	cin >> inches;
-	cout << "\nEnter weight in pounds: ";
+	cout << "\nFinally, enter your weight in pounds: ";
 	cin >> pounds;
 	
 		
